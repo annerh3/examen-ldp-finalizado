@@ -1,0 +1,53 @@
+[
+  {
+    "Id": "d0362608-8e81-427b-9cd1-ac0d23c68186",
+    "StateName": "Pendiente",
+    "StateDescription": "La solicitud está en espera de revisión."
+  },
+  {
+    "Id": "907cb224-ce07-42ef-877d-d1fd8e108a7b",
+    "StateName": "Aprobado",
+    "StateDescription": "La solicitud ha sIdo aprobada."
+  },
+  {
+    "Id": "6472fdf7-c7fd-4ea7-acf1-9dae3bbfa20b",
+    "StateName": "Rechazado",
+    "StateDescription": "La solicitud ha sIdo rechazada."
+  },
+  {
+    "Id": "7c51c471-d1c0-4796-9895-dd1becc74351",
+    "StateName": "En Revisión",
+    "StateDescription": "La solicitud está siendo revisada."
+  },
+  {
+    "Id": "db55c74d-eefe-4b59-b733-d12be16d4ede",
+    "StateName": "Cancelado",
+    "StateDescription": "La solicitud ha sIdo cancelada por el usuario."
+  },
+  {
+    "Id": "db06907a-b769-4a1e-893e-5c78aec8db18",
+    "StateName": "Escalado",
+    "StateDescription": "La solicitud ha sIdo escalada a una instancia superior."
+  },
+  {
+    "Id": "0b18bbfc-e0f2-4303-84d5-0692c00731b3",
+    "StateName": "Aprobado con Condiciones",
+    "StateDescription": "La solicitud ha sIdo aprobada con ciertas condiciones."
+  },
+  {
+    "Id": "0396a661-f46f-4094-89eb-d16d7151bc14",
+    "StateName": "Incompleto",
+    "StateDescription": "La solicitud está incompleta y requiere más información."
+  },
+  {
+    "Id": "5409b67a-3c22-4870-acb5-20daf53e8065",
+    "StateName": "En Espera",
+    "StateDescription": "La solicitud está en espera de resolución."
+  },
+  {
+    "Id": "e61ba2eb-55cf-442e-bfc1-bb3ba0378ca6",
+    "StateName": "Expirado",
+    "StateDescription": "La solicitud ha expirado sin ser resuelta."
+  }
+]
+

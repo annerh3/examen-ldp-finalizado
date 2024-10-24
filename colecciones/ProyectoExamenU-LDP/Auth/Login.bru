@@ -1,0 +1,22 @@
+meta {
+  name: Login
+  type: http
+  seq: 1
+}
+
+post {
+  url: {{PATH}}/api/auth/login
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{TOKEN}}
+}
+
+body:json {
+  {
+    "email": "human_r@gmail.com",
+    "password": "Temporal01*"
+  }
+}

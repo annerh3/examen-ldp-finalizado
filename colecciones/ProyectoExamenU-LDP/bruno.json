@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "ProyectoExamenU-LDP",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

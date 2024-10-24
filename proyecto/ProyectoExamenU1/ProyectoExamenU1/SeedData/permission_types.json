@@ -1,0 +1,38 @@
+[
+  {
+    "Id": "11be398a-4ca1-4253-be88-8ad63588cf25",
+    "NameType": "Permiso Médico",
+    "Description": "Permiso otorgado por razones médicas o de salud.",
+    "MaxDays": 30
+  },
+  {
+    "Id": "5a52ac4d-8bc1-4fe7-ae27-c56c1082fd19",
+    "NameType": "Permiso Vacacional",
+    "Description": "Permiso anual por razones de vacaciones.",
+    "MaxDays": 15
+  },
+  {
+    "Id": "b955992f-f8ed-412c-bc9c-137488123312",
+    "NameType": "Permiso Personal",
+    "Description": "Permiso para asuntos personales.",
+    "MaxDays": 7
+  },
+  {
+    "Id": "a87af5f4-d5d5-4626-a8e2-f11685e42664",
+    "NameType": "Permiso por Duelo",
+    "Description": "Permiso por fallecimiento de un familiar cercano.",
+    "MaxDays": 5
+  },
+  {
+    "Id": "f9cc8faa-37b2-4ce6-85de-5519536ee077",
+    "NameType": "Permiso por Maternidad",
+    "Description": "Permiso otorgado a las empleadas por razones de maternidad.",
+    "MaxDays": 90
+  },
+  {
+    "Id": "771d6d45-00ca-46d0-890f-53b2f1d7a6ee",
+    "NameType": "Permiso por Paternidad",
+    "Description": "Permiso otorgado a los empleados por razones de paternidad.",
+    "MaxDays": 15
+  }
+]
